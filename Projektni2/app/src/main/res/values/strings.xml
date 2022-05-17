@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Whiteboard</string>
+    <string name="canvasContentDescription">Mini Paint is a simple line drawing app.
+   Drag your fingers to draw. Rotate the phone to clear.</string>
+    <string name="draw">Draw</string>
+    <string name="erase">Erase</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="gallery">Gallery</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="colorPicker">Color Picker</string>
+    <string name="download">Download</string>
+    <string name="drawing">Back</string>
+    <string name="areYouSure">Are you Sure?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
